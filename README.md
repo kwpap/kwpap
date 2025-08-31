@@ -1,14 +1,10 @@
-Hi, I'm Kostas 
 <br>Curiosity, creativity, engineering, maths, teaching, acting, singing, speedcubing, and video production.
 <br>These were the ingredients Professor Utonium chose to create the perfect creator.<br>
-But Professor Utonium accidentally
+But Professor Utonium accidentallyAdded an extra ingredient to the concoction--
 
-Added an extra ingredient to the concoction--
-
-Chemical Cringe
+Chemical Cringe!
 <br>
-<br><br>And thus, this chaotic good character was born. I'm an Electrical & Computer Engineer who loves solving puzzles, whether they're in code, on a circuit board, or just a 3x3x3 cube. My goal is to build things that are clever, useful, and maybe a little bit fun.<br><br>Currently Tinkering With:<br>🤖 Making robots do my bidding (for educational purposes, of course).<br><br>🧠 Trying to teach AI how to solve problems without it taking over the world.<br><br>🔥 Volunteering as a firefighter in Piraeus.<br><br>🧩 Running the show at speedcubing competitions as a WCA Delegate.<br><br>Things I Build With:<br>Python | R | Java | C/C++ | React | SQL | Git | Data Analysis<br><br>A Few Things I've Made:<br>Amazed - Stroke Rehabilitation Game: A 3D game to help stroke patients recover. It even won 1st place at NTUA Biotech Day!<br><br>The Largest Greek Cubing YouTube Channel: Taught thousands of people how to solve a Rubik's Cube.<br><br>Fair Division Algorithms for EU Emissions: My thesis, which sounds serious because it was. Here's the paper if you're into that.<br><br>Find Me Elsewhere:<br>Email | LinkedIn | YouTube
-
+<br><br>And thus, this chaotic me was born. I'm Kostas, an Electrical & Computer Engineer who loves solving puzzles, whether they're in code, on a circuit board, or just a 3x3x3 cube. My goal is to build things that are clever, useful, and maybe a little bit fun.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kostas.paptypetomaniac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kostas-papadopoulos-kpc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KostasPapadopouloskwpap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kostasalexpapadopoulos@gmail.com) 
