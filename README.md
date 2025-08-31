@@ -1,6 +1,6 @@
 <br>Curiosity, creativity, engineering, maths, teaching, acting, singing, speedcubing, and video production.
 <br>These were the ingredients Professor Utonium chose to create the perfect creator.<br>
-But Professor Utonium accidentallyAdded an extra ingredient to the concoction--
+But Professor Utonium accidentally added an extra ingredient to the concoction...
 
 Chemical Cringe!
 <br>
