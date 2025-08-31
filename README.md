@@ -1,10 +1,11 @@
-<br>Curiosity, creativity, engineering, maths, teaching, acting, singing, speedcubing, and video production.
+<br>Curiosity, Creativity, Engineering, Maths, Teaching, Acting, Singing, Speedcubing, and Video Production.
+
 <br>These were the ingredients Professor Utonium chose to create the perfect creator.<br>
 But Professor Utonium accidentally added an extra ingredient to the concoction...
 
 Chemical Cringe!
 <br>
-<br><br>And thus, this chaotic me was born. I'm Kostas, an Electrical & Computer Engineer who loves solving puzzles, whether they're in code, on a circuit board, or just a 3x3x3 cube. My goal is to build things that are clever, useful, and maybe a little bit fun.<br>
+<br><br>And thus, this chaotic me was born. I'm Kostas, an Electrical & Computer Engineer who loves solving a lot more than just puzzles.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kostas.paptypetomaniac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kostas-papadopoulos-kpc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KostasPapadopouloskwpap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kostasalexpapadopoulos@gmail.com) 
